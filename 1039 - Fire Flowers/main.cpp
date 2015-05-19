@@ -1,3 +1,9 @@
+/**
+ * @autor Jose Junior
+ * 1039 - Fire Flowers
+ * Runtime: 0.004s -- Can be 0.000s if using another input/output method
+ */
+
 #include <iostream>
 #include <string>
 #include <sstream>
